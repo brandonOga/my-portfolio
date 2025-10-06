@@ -1,0 +1,3 @@
+Object relational mapper (ORM) for sanitizing for text inputs
+Audit the firebase code to project against attack
+gemini cli - sql injection attacks, cursor
